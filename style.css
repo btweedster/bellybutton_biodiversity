@@ -1,0 +1,14 @@
+.jumbotron {
+    background-image : url("culture.jpeg");
+    background-size : 100% 100%;
+    color : black;
+}
+
+body {
+    background-color: forestgreen;
+}
+
+.graph-desc {
+    background-color: white;
+    text-align: center;
+}
